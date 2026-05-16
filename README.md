@@ -24,9 +24,7 @@ https://finance-backend-p2um.onrender.com
 
 * Node.js
 * Express.js
-* MongoDB
-* Mongoose
-* Render (Deployment)
+* Supabase
 
 ---
 
